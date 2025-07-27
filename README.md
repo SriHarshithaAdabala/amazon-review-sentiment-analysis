@@ -34,8 +34,9 @@ Full dataset available here: [Kaggle - Amazon Fine Food Reviews](https://www.kag
 
 ![Amazon Sentiment App Screenshot]
 <img width="1919" height="359" alt="image" src="https://github.com/user-attachments/assets/1b350041-78cc-4dd7-b59f-136f68548ca7" />
-<img width="1909" height="884" alt="image" src="https://github.com/user-attachments/assets/bb502cc0-81d1-40f4-ad05-9870187efc61" />
-<img width="1914" height="887" alt="image" src="https://github.com/user-attachments/assets/c5bd5ebc-74da-472a-bd0b-fc64b0810057" />
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/31c40bd6-8297-4281-8dd1-97883d0c919a" />
+<img width="1908" height="874" alt="image" src="https://github.com/user-attachments/assets/9a501b3e-8a6b-4d91-8f78-d7a13b9c8067" />
+
 
 
 
