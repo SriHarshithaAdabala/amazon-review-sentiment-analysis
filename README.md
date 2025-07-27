@@ -26,3 +26,5 @@ This is a simple interactive Streamlit app that analyzes the sentiment of Amazon
 pip install -r requirements.txt
 streamlit run app.py
 ```
+Note: Due to GitHub file size limitations, this repo uses a 5,000-row sample of the full dataset.
+Full dataset available here: [Kaggle - Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
